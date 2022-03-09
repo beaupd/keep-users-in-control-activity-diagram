@@ -13,7 +13,27 @@
 
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->
+```javascript
+function getParameters(){
+  get HTTP request -> get parameters
+  dissect parameters with key(decrypt) in backend
+  return data object
+}
 
+function fetch...WithData(){
+  with the decrypted data object
+  fetch data for view
+} 
+
+function start/stop skeleton loader(){
+  start or stop skeleton
+  loader to give a sense of control
+}
+
+function view...render(){
+  render a view with fetched data
+}
+```
 
 ## Licentie
 

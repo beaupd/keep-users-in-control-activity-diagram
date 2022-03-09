@@ -8,8 +8,8 @@
 
 ## Activity Diagram
 <!-- Toon de activity Diagram -->
-https://github.com/beaupd/keep-users-in-control-activity-diagram/blob/main/assets/Wireflow.jpg
-https://github.com/beaupd/keep-users-in-control-activity-diagram/blob/main/assets/ControlDiagram.jpg
+![https://github.com/beaupd/keep-users-in-control-activity-diagram/blob/main/assets/Wireflow.jpg](Wireflow)
+![https://github.com/beaupd/keep-users-in-control-activity-diagram/blob/main/assets/ControlDiagram.jpg](Control diagram)
 
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->

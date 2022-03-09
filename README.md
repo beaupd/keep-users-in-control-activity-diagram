@@ -5,6 +5,9 @@
 
 ## User Story
 <!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
+Als respondent
+Wil ik een formulier invullen en beide visualisaties kunnen bekijken
+Zodat ik kan reflecteren op mijn handelen
 
 ## Activity Diagram
 <!-- Toon de activity Diagram -->
